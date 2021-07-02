@@ -1,0 +1,28 @@
+p{
+    display: flex;
+    text-align: justify;
+  
+ 
+}
+
+
+img {
+    margin: 15px;
+}
+
+#video {
+
+    border-radius: 10px;
+    height: 315px;
+    width: 560px;
+     
+
+}
+
+.alinharAoCentro{
+
+    display: flex;
+    justify-content: center;
+    padding-left: 80px;    
+
+}
